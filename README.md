@@ -145,7 +145,7 @@ Open and **Run All** in this order:
 streamlit run CAR.py
 ```
 
-The app opens at **http://localhost:8501**. On the first start it trains the 3 models (about 30 seconds); after that it is cached and fast.
+The app opens at **(https://loandefaultriskrediction-system-7paidhq29wd368w3zj5c7n.streamlit.app/)**. On the first start it trains the 3 models (about 30 seconds); after that it is cached and fast.
 
 ## 🛠️ Tech Stack
 
