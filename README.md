@@ -177,7 +177,7 @@ This project is for educational purposes. Add a license of your choice (for exam
 
 ## 🙋 Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**Abhijeet Pardhan**
+GitHub: https://github.com/AbhijeetDataanalysis
 
 ⭐ If you found this project helpful, please give it a star!
